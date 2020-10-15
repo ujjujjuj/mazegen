@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="mazegen",
-    version="0.0.1",
+    version="0.0.2",
     author="Ujjwal Dimri",
     author_email="ujjwaldimri123@gmail.com",
     description="Python utility to generate and solve mazes.",
