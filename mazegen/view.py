@@ -10,6 +10,6 @@ def main(directory, filename, save):
         maze = pickle.load(f)
 
     im = maze.drawMaze()
-    im.show()
     if save:
         im.save(filename+'.png')
+    im.show()

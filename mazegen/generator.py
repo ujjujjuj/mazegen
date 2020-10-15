@@ -39,7 +39,7 @@ def main(directory, filename, save):
 
     im = maze.drawMaze()
     maze.save(filename + ".maze" if filename[-5:] != '.maze' else filename)
+    
     if save:
         im.save(filename + '.png')
-
     im.show()
