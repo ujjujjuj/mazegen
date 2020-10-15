@@ -41,10 +41,10 @@ mazegen solve first.maze
 * `-s` or `--save` will save the generated image file
 
 ## Example
-An unsolved 42x42 maze
-<img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true" alt="unsolved" width="270"/>
-Solution
-<img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true" alt="solved" width="270"/>
+An unsolved 42x42 maze<br />
+<img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true" alt="unsolved" width="270"/><br />
+Solution<br />
+<img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true" alt="solved" width="270"/><br />
 
 ## Note
 All mazes start from the top left and end at bottom right
