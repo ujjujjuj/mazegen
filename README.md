@@ -44,7 +44,7 @@ mazegen solve first.maze
 An unsolved 42x42 maze<br />
 <img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true" alt="unsolved" width="270"/><br />
 Solution<br />
-<img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true" alt="solved" width="270"/><br />
+<img src="https://github.com/ujjujjuj/mazegen/raw/master/example/test_sol.png?raw=true" alt="solved" width="270"/><br />
 
 ## Note
 All mazes start from the top left and end at bottom right
