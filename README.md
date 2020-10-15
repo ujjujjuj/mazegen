@@ -47,4 +47,4 @@ Solution
 ![solved](https://github.com/ujjujjuj/mazegen/raw/master/example/test_sol.png =250x250)
 
 ## Note
-All mazes start from the top right and end at bottom right
+All mazes start from the top left and end at bottom right
