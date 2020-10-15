@@ -1,0 +1,4 @@
+mazegen/__pycache__/
+build/
+dist/
+mazegen.egg-info/
