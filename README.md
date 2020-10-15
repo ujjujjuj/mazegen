@@ -42,9 +42,9 @@ mazegen solve first.maze
 
 ## Example
 An unsolved 42x42 maze
-![unsolved](https://github.com/ujjujjuj/mazegen/raw/master/example/test.png =250x250)
+![](https://github.com/ujjujjuj/mazegen/raw/master/example/test.png?raw=true)
 Solution
-![solved](https://github.com/ujjujjuj/mazegen/raw/master/example/test_sol.png =250x250)
+![](https://github.com/ujjujjuj/mazegen/raw/master/example/test_sol.png?raw=true)
 
 ## Note
 All mazes start from the top left and end at bottom right
